@@ -4,7 +4,7 @@ from selenium import webdriver
 # To Add : Argument parse
 
 profile = "/home/kaushal/.mozilla/firefox/zzhbpihh.default"
-fire_profile = webdriver.FirefoxProfile('/home/kaushal/.mozilla/firefox/zzhbpihh.default')
+fire_profile = webdriver.FirefoxProfile(profile)
 driver = webdriver.Firefox(fire_profile)
 driver.get('https://web.whatsapp.com') 
 

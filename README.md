@@ -1,8 +1,7 @@
 # WhatsApp-Autotext
 
 This is a skeleton script for automated message scheduling.  
-Intended for usage as a crontask only.  
-A basic version with persitent login added, cron and scheduling functionalities will be added later.  
+A basic version with persitent login added, cron scheduling functionalities will be added soon, along with usage, setup and installation instructions.  
 
 ## Perks:
 
@@ -12,7 +11,7 @@ The script does the rest, till the end of time. Or expiry of your QR authenticat
 
 ## Things You Can Do:
 
-Send your dad a new quotation by his favourite author everyday with a 'Good Morning Dad' text, at 8:00am every morning. :')  
+Send your dad a new quotation by his favourite author with a 'Good Morning Dad' text, at 8:00am every morning. :')  
 Among others.  
 
 **PS:** *If you find this cronjob useful, do start and share.*  
