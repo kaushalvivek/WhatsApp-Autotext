@@ -2,6 +2,10 @@ import sys
 from selenium import webdriver
 
 # To Add : Argument parse
+# To Add : Automation of QR entry post one session - Look into profile sessions
+
+# options = webdriver.FirefoxOptions()
+# options.add_argument(r"/")
 
 driver = webdriver.Firefox()
 driver.get('https://web.whatsapp.com')
