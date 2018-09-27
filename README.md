@@ -12,8 +12,6 @@ The script does the rest, till the end of time. Or expiry of your QR authenticat
 ## Things You Can Do:
 
 Send your dad a new quotation by his favourite author with a 'Good Morning Dad' text, at 8:00am every morning. :')  
-Among others.  
-
-**PS:** *If you find this cronjob useful, do start and share.*  
+Among others.    
 
 For a more comprehensive, WebWhatsApp wrapper, with much more functionalities, checkout [Mukul's WhatsAppWebAPI](https://github.com/mukulhase/WebWhatsapp-Wrapper).
